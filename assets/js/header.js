@@ -13,7 +13,7 @@ const headerData = {
     { label: 'Contact', url: '#' },
   ],
   action: {
-    label: 'Sign Up',
+    label: 'Get Started',
     url: '#',
   },
 };
